@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-toktik-dev-224417-authRole",
+            "UnauthRoleArn": "arn:aws:iam::644741220607:role/amplify-toktik-dev-224417-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::644741220607:role/amplify-toktik-dev-224417-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-toktik-dev-224417-deployment",
+            "UnauthRoleName": "amplify-toktik-dev-224417-unauthRole",
+            "StackName": "amplify-toktik-dev-224417",
+            "StackId": "arn:aws:cloudformation:eu-central-1:644741220607:stack/amplify-toktik-dev-224417/0b93fba0-dc0b-11ea-b0f1-02508c92de46",
+            "AmplifyAppId": "d241rwur1507kf"
+        },
+        "categories": {
+            "auth": {
+                "toktik3c83374c": {}
+            }
+        }
+    }
+}
